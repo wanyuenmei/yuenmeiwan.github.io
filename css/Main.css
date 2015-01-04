@@ -1,0 +1,10 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	color: ##FF0000;
+	background-color: #bbddee;
+}
+
+#container {
+	width: 700px;
+	margin: 0 auto;
+}
