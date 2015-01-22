@@ -1,0 +1,40 @@
+body {
+	font-family: 'Sanchez', serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 23px;
+	color: ##FF0000;
+	background-color: #e8f0e2;
+}
+
+#home {
+	width: 787px;
+	margin: 70px auto;
+}
+
+.home-menu {
+	float: left;
+	position: relative;
+	z-index: 1;
+	margin: 550px;
+	margin-top: 150px;
+}
+
+.home-menu a:link, .home-menu a:visited {
+	display: block;
+	width: 250px;
+	color: white;
+	background: #61b89b;
+	margin-bottom: 10px;
+	padding: 5px;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28px;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-align: right;
+	border-radius:10px;
+}
+
